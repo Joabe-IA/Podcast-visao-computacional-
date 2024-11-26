@@ -1,8 +1,8 @@
 # Podcast visão computacional
-Criando um podcast 
+Criando um podcast para um projeto de curso
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/Joabe-IA/Podcast-visao-computacional-/blob/b322eee6fe79272edc5807309d37698d17674a62/IMG-20241126-WA0009~2.jpg"
     width="300"
 />
 </p>
@@ -29,7 +29,7 @@ Criando um podcast
 </div>
 
 
- > ℹ️ **NOTE:** Este é um repositório desenvolvido durante uma um curso na [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é um repositório desenvolvido durante um curso na [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
