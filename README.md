@@ -29,7 +29,7 @@ Criando um podcast
 </div>
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma um curso na [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é um repositório desenvolvido durante uma um curso na [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
