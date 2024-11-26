@@ -1,2 +1,2 @@
-# Podcast-visao-computacional-
+# Podcast visão computacional
 Criando um podcast 
