@@ -37,7 +37,7 @@ Criando um podcast para um projeto de curso
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
 Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
-
+[APERTE PARA ESCUTAR O PODCAST](https://github.com/Joabe-IA/Podcast-visao-computacional-/blob/459dcd611e4a07dcbaa32b4e3dde17603c803fa8/Vis%C3%A3o%20computacional.mp3)
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
