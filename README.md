@@ -1,5 +1,5 @@
 # Podcast visão computacional
-Criando um podcast para um projeto de curso, falando sobre Visão computacional,
+Criando um podcast de 🎤 2:42 minutos para um projeto de curso, falando sobre Visão computacional.
 
 **#LabDIONattyOrNot** [DIO](https://www.linkedin.com/school/dio-makethechange) e [Felipe Aguiar](https://github.com/felipeAguiarCode)
 ## 👨‍💻 Aluno: Joabe Souza 
@@ -31,6 +31,7 @@ Criando um podcast para um projeto de curso, falando sobre Visão computacional,
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
+**#Descrição:** Visão computacional é o campo da inteligência artificial que permite às máquinas interpretar e entender imagens e vídeos, assim como os humanos fazem. Ela é usada em tecnologias como reconhecimento facial, carros autônomos, diagnósticos médicos e muito mais, revolucionando a forma como interagimos com o mundo digital.
 
  > ℹ️ **NOTE:** Este é um repositório desenvolvido durante um curso na [DIO](https://dio.me)
 
