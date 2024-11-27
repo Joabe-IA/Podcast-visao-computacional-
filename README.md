@@ -1,5 +1,8 @@
 # Podcast visão computacional
 Criando um podcast para um projeto de curso
+
+**#LabDIONattyOrNot** [DIO](https://www.linkedin.com/school/dio-makethechange) e [Felipe Aguiar](https://github.com/felipeAguiarCode)
+## 👨‍💻 Aluno: Joabe Souza 
 <p align="center">
 <img 
     src="https://github.com/Joabe-IA/Podcast-visao-computacional-/blob/b322eee6fe79272edc5807309d37698d17674a62/IMG-20241126-WA0009~2.jpg"
@@ -21,7 +24,7 @@ Criando um podcast para um projeto de curso
 </p>
 
 <p align="center">
-    preview do podcast
+
 </p>
 
 <div align="center">
